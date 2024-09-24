@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: We are here to help!
     text: >
-      At **SolaBeam**, we provide small businesses in Florida with dynamic,
-      engaging social media content that reflects the heart of their business.
-      Our mission is to help local companies build a trusted online presence,
+      At **SolaBeam**, we provide all businesses, big and small, with dynamic,
+      engaging social media contents that reflects the heart of their business.
+      Our mission is to help our clients build a trusted online presence,
       brighten their brand identity, and connect with their community.
     actions:
       - label: Get started

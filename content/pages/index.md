@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Solabeam
+      label: Solabeam Social Media Manager
       color: text-primary
       type: Badge
     elementId: ''

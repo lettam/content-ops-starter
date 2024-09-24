@@ -7,7 +7,7 @@ sections:
       text: Shining a Light on Your Social Presence
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We are here to help!
     text: >
       At **SolaBeam**, we provide small businesses in Florida with dynamic,
       engaging social media content that reflects the heart of their business.

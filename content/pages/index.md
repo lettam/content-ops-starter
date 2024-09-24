@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At **SolaBeam**, we provide small businesses in Florida with dynamic,
+      engaging social media content that reflects the heart of their business.
+      Our mission is to help local companies build a trusted online presence,
+      brighten their brand identity, and connect with their community.
     actions:
       - label: Get started
         altText: ''
